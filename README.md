@@ -1,5 +1,5 @@
 # ReviewManager
-Unity application to generate 3D models based on building maps &amp; receive, display and manage Reviews send with [ReviewApp](https://github.com/numediart/ReviewApp)
+Unity application to generate 3D models based on building maps &amp; receive, display and manage Reviews sent with [ReviewApp](https://github.com/numediart/ReviewApp)
 
 ## License
 Copyright (c) 2020 [UMONS](https://web.umons.ac.be/en/)
