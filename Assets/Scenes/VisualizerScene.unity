@@ -3934,7 +3934,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000032999636, y: 0.0009982674}
+  m_AnchoredPosition: {x: -0.000032999636, y: -0.0048663532}
   m_SizeDelta: {x: -264.26465, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &223798182
@@ -19966,9 +19966,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1302543307}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db00cc3f715efe84cbc2e6e36688843a, type: 3}
+  m_Script: {fileID: 11500000, guid: c5a77f8e01b2932418b9acaed1ee299a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  WebsocketServerScriptRef: {fileID: 1979272762}
 --- !u!1 &1319198625
 GameObject:
   m_ObjectHideFlags: 0
@@ -22161,9 +22162,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1477947270}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea8d42c73a1b49f47bf89f8f7b8983d7, type: 3}
+  m_Script: {fileID: 11500000, guid: 6c4eb6160228915459ca489cc1ea5ab5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  NoteNameText: {fileID: 270450434}
+  NoteDetailPanel: {fileID: 540130165}
+  ViewNotesPanelScriptRef: {fileID: 1067162431}
 --- !u!114 &1477947272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23994,9 +23998,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1639678533}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a680412155e064941b7153755106367a, type: 3}
+  m_Script: {fileID: 11500000, guid: c9c37a10cab256244a77b96eb39ba863, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  CallerScriptRef: {fileID: 93661058}
 --- !u!114 &1639678536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27846,7 +27851,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 604345451}
   m_HandleRect: {fileID: 604345450}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 0.9999994
   m_NumberOfSteps: 0
   m_OnValueChanged:
