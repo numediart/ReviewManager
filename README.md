@@ -22,7 +22,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ## Legal Notices
 This work was produced as part of the FEDER Digistorm project, co-financed by the European Union and the Wallonia Region.
 
-![Logo FEDER-FSE](https://www.enmieux.be/sites/all/themes/enmieux_theme/img/logo-feder-fse.png)
+![Logo FEDER-FSE](https://www.enmieux.be/sites/default/files/assets/media-files/signatures/vignette_FEDER%2Bwallonie.png)
 
 This publication has been produced in the framework of the Interreg cross-border cooperation project C2L3PLAY, co-financed by the European Union.  
 With the support of the European Regional Development Fund /  
